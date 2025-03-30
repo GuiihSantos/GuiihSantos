@@ -2,9 +2,6 @@
 Olá, Prazer Guilherme 🙋🏾‍♂️
 </h1>
 
-
-
-
 <p align='center'>
   Buscando maneiras de expandir meu conhecimento e me aventurar em novos desafios tecnológicos.
 </p>
