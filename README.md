@@ -1,20 +1,7 @@
-<h1 align="center">
-Olá, Prazer Guilherme 🙋🏾‍♂️
-</h1>
+# Olá, Prazer Guilherme 🙋🏾‍♂️ <a href="https://www.linkedin.com/in/guilherme-santos-28090b359/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white?style=for-the-badge"  target="_blank" alt="LinkedIn Badge">
 
-<p align='center'>
-  Buscando maneiras de expandir meu conhecimento e me aventurar em novos desafios tecnológicos.
-</p>
-
-<div align='center'> 
-</a>
-
-<a href="https://www.linkedin.com/in/guilherme-santos-28090b359/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
-
-<p align='center'>
- <img src='https://github-readme-stats.vercel.app/api?username=GuiihSantos&show_icons=true&theme=highcontrast'>
-</p>
+### Buscando maneiras de expandir meu conhecimento e me aventurar em novos desafios tecnológicos.
+Tenho uma base sólida em desenvolvimento Web, o que me deu lógica de programação e visão de produto, e hoje utilizo esse conhecimento para extrair, manipular e analisar dados com SQL e outras tecnologias
 
 ## 📊 Minhas Habilidades
 
